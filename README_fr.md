@@ -11,10 +11,12 @@
 ## Inégalités de scolarisation des 15–29 ans en France (2021)
 
 <br>
+
 ## 🎥 Lien vidéo explicative (vulgariser la data)
 🔗 [Voir la vidéo sur YouTube](https://youtu.be/wFg_cp123pA)
 
 <br>
+
 > 📰 **Format original**  
 > La vidéo explicative adopte le format d’un journal d’actualité, combinant rigueur analytique et ton pédagogique, afin de rendre la restitution des résultats plus claire, engageante et accessible.
 <br>
@@ -24,8 +26,10 @@ En collaboration avec l’**INSEE**, ce projet a été réalisé dans le cadre d
 Les participants disposaient uniquement de **données brutes**, sans problématique imposée, et devaient conduire l’ensemble de la démarche analytique de manière autonome.
 
 <br>
+
 > ❗ **Remarque**
 > *Ce projet repose sur une forte capacité d’**analyse exploratoire des données (EDA)** et d’**interprétation des données brutes afin d’en extraire des insights exploitables**.*
+
 <br>
 
 ---
@@ -81,9 +85,9 @@ Il s’adresse principalement aux **décideurs publics, chercheurs et acteurs de
 ## 🖼️ Infographie finale
 Synthèse visuelle des analyses et résultats du projet.
 [![Aperçu de l'infographie](assets_photos/infographie_preview.jpg)](infographie.pdf)
-
+<br>
 👉 Cliquez sur l’image pour ouvrir l’infographie complète (PDF)
-
+<br>
 ---
 
 ## 👥 Équipe
@@ -98,5 +102,9 @@ Synthèse visuelle des analyses et résultats du projet.
 ## Conclusion
 Ce projet illustre une démarche complète de **data analysis**, depuis l’exploration de données brutes jusqu’à la restitution visuelle, en mobilisant des compétences clés : **analyse exploratoire, visualisation, storytelling et travail en équipe**.
 
+<br>
+
 [![Vidéo explicative](assets_photos/thumbnail.png)](https://youtu.be/wFg_cp123pA) 
+
+<br>
 👉 **Cliquez** pour voir la présentation des résultats sous forme de **journal d’actualité**, illustrant la capacité à communiquer les résultats.
