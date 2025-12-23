@@ -10,11 +10,14 @@
 
 ## Inégalités de scolarisation des 15–29 ans en France (2021)
 
+
 ## 🎥 Lien vidéo explicative (vulgariser la data)
 🔗 [Voir la vidéo sur YouTube](https://youtu.be/wFg_cp123pA)
 
+
 > 📰 **Format original**  
 > La vidéo explicative adopte le format d’un journal d’actualité, combinant rigueur analytique et ton pédagogique, afin de rendre la restitution des résultats plus claire, engageante et accessible.
+
 
 ## Contexte
 En collaboration avec l’**INSEE**, ce projet a été réalisé dans le cadre du **Concours National de Datavisualisation 2025**, organisé au sein des départements Science des Données de ***tous** les IUT de France*.  
@@ -93,5 +96,5 @@ Synthèse visuelle des analyses et résultats du projet.
 ## Conclusion
 Ce projet illustre une démarche complète de **data analysis**, depuis l’exploration de données brutes jusqu’à la restitution visuelle, en mobilisant des compétences clés : **analyse exploratoire, visualisation, storytelling et travail en équipe**.
 
-[![Vidéo explicative](assets_photos/thumbnail.png)](https://www.youtube.com/watch?v=ABC123XYZ)
-👉 Une présentation des résultats sous forme de journal d’actualité **=** savoir communiquer les résultats.
+[![Vidéo explicative](assets_photos/thumbnail.png)](https://youtu.be/wFg_cp123pA) 
+👉 **Cliquez** pour voir la présentation des résultats sous forme de **journal d’actualité**, illustrant la capacité à communiquer les résultats.
