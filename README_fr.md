@@ -10,21 +10,23 @@
 
 ## Inégalités de scolarisation des 15–29 ans en France (2021)
 
-
+<br>
 ## 🎥 Lien vidéo explicative (vulgariser la data)
 🔗 [Voir la vidéo sur YouTube](https://youtu.be/wFg_cp123pA)
 
-
+<br>
 > 📰 **Format original**  
 > La vidéo explicative adopte le format d’un journal d’actualité, combinant rigueur analytique et ton pédagogique, afin de rendre la restitution des résultats plus claire, engageante et accessible.
-
+<br>
 
 ## Contexte
 En collaboration avec l’**INSEE**, ce projet a été réalisé dans le cadre du **Concours National de Datavisualisation 2025**, organisé au sein des départements Science des Données de ***tous** les IUT de France*.  
 Les participants disposaient uniquement de **données brutes**, sans problématique imposée, et devaient conduire l’ensemble de la démarche analytique de manière autonome.
 
+<br>
 > ❗ **Remarque**
 > *Ce projet repose sur une forte capacité d’**analyse exploratoire des données (EDA)** et d’**interprétation des données brutes afin d’en extraire des insights exploitables**.*
+<br>
 
 ---
 
