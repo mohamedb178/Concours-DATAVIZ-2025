@@ -27,7 +27,7 @@ Les participants disposaient uniquement de **données brutes**, sans problémati
 
 <br>
 
-> ❗ **Remarque**
+> ❗ **Remarque**  
 > *Ce projet repose sur une forte capacité d’**analyse exploratoire des données (EDA)** et d’**interprétation des données brutes afin d’en extraire des insights exploitables**.*
 
 <br>
@@ -83,11 +83,16 @@ Il s’adresse principalement aux **décideurs publics, chercheurs et acteurs de
 ---
 
 ## 🖼️ Infographie finale
-Synthèse visuelle des analyses et résultats du projet.
+### Synthèse visuelle des analyses et résultats du projet.
+
+<br>
+
 [![Aperçu de l'infographie](assets_photos/infographie_preview.jpg)](infographie.pdf)
+
 <br>
-👉 Cliquez sur l’image pour ouvrir l’infographie complète (PDF)
-<br>
+
+### 👉 Cliquez sur l’image pour ouvrir l’infographie complète (PDF)
+
 ---
 
 ## 👥 Équipe
@@ -107,4 +112,5 @@ Ce projet illustre une démarche complète de **data analysis**, depuis l’expl
 [![Vidéo explicative](assets_photos/thumbnail.png)](https://youtu.be/wFg_cp123pA) 
 
 <br>
-👉 **Cliquez** pour voir la présentation des résultats sous forme de **journal d’actualité**, illustrant la capacité à communiquer les résultats.
+
+### 👉 **Cliquez** pour voir la présentation des résultats sous forme de **journal d’actualité**, illustrant la capacité à communiquer les résultats.
