@@ -1,3 +1,5 @@
+🇬🇧 [English version available](README_English.md)
+
 # 📊 Concours DATAVIZ 2025 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
